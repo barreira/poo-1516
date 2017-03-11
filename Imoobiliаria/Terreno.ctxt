@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Terreno()
+comment1.params=rua\ preco\ precoMin
+comment1.target=Terreno(java.lang.String,\ double,\ double)
+comment2.params=t
+comment2.target=Terreno(Terreno)
+numComments=3

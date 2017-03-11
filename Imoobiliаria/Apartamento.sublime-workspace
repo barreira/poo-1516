@@ -1,0 +1,526 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isEmptyQueue"
+			],
+			[
+				"q",
+				"q"
+			],
+			[
+				"e",
+				"ESTRUTURA"
+			],
+			[
+				"dir",
+				"dir"
+			],
+			[
+				"nodo",
+				"nodeProd"
+			],
+			[
+				"altura",
+				"alturaProd"
+			],
+			[
+				"al",
+				"alturaEsq"
+			],
+			[
+				"nodeProd",
+				"nodeProd"
+			],
+			[
+				"t",
+				"total3"
+			],
+			[
+				"toa",
+				"total1"
+			],
+			[
+				"vendas",
+				"vendasPorFilial"
+			],
+			[
+				"toal",
+				"total3"
+			],
+			[
+				"v",
+				"v"
+			],
+			[
+				"su",
+				"sublistOf1"
+			],
+			[
+				"l",
+				"l"
+			],
+			[
+				"elee",
+				"elements"
+			],
+			[
+				"p",
+				"prop_replicate0"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"inte",
+				"intersperse1"
+			],
+			[
+				"In",
+				"intersperse1"
+			],
+			[
+				"pr",
+				"prop_replicate0"
+			],
+			[
+				"re",
+				"replicate1"
+			],
+			[
+				"prop",
+				"prop_replicate"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"r",
+				"replicate1"
+			],
+			[
+				"in",
+				"intersperse"
+			],
+			[
+				"prop_su",
+				"prop_sum1"
+			],
+			[
+				"sorted",
+				"sortedList"
+			],
+			[
+				"porp",
+				"prop_sorted"
+			],
+			[
+				"inst",
+				"insert"
+			],
+			[
+				"soma",
+				"somaC"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"ar",
+				"argc"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"ca",
+				"campoMes"
+			],
+			[
+				"campo",
+				"campoUnidades"
+			],
+			[
+				"ve",
+				"VENDAS"
+			],
+			[
+				"campoPr",
+				"campoProduto"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"d",
+				"difConsecutivos"
+			],
+			[
+				"exer",
+				"exercicio4"
+			],
+			[
+				"exe",
+				"exercicio3"
+			],
+			[
+				"linha",
+				"linha"
+			],
+			[
+				"LIn",
+				"linhaOK"
+			],
+			[
+				"str",
+				"strtok"
+			],
+			[
+				"linh",
+				"linhaOK"
+			],
+			[
+				"getp",
+				"getppid"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"mult",
+				"mult2"
+			],
+			[
+				"tri",
+				"triangulo_vert"
+			],
+			[
+				"O",
+				"O_TRUNC"
+			],
+			[
+				"O_",
+				"O_CREAT"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"qu",
+				"quantos"
+			],
+			[
+				"enum",
+				"enumFromThenTo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jpb/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/jpb/LI3/18 mar/Vendas_1MValidas.txt",
+		"/home/jpb/CP/ExemploRev.hs",
+		"/home/jpb/CP/Fichas/ficha3.hs",
+		"/home/jpb/CP/a73831_a61855.hs",
+		"/home/jpb/CP/aula14mar.hs",
+		"/home/jpb/PI/Fichas/ficha2.c",
+		"/home/jpb/SO/Guiões/3/1.c",
+		"/home/jpb/SO/Guiões/3/2.c",
+		"/home/jpb/SO/Guiões/3/2_alt.c",
+		"/home/jpb/SO/Guiões/3/3.c",
+		"/home/jpb/SO/Guiões/3/4.c",
+		"/home/jpb/SO/Guiões/3/5.c",
+		"/home/jpb/SO/Guiões/3/6.c",
+		"/home/jpb/SO/Guiões/3/7.c",
+		"/home/jpb/SO/Guiões/Guião_03.pdf",
+		"/home/jpb/PI/parte1.c",
+		"/home/jpb/SO/Guiões/2/1.c",
+		"/home/jpb/SO/Guiões/2/2.c",
+		"/home/jpb/SO/Guiões/2/3.c",
+		"/home/jpb/SO/Guiões/2/6.c",
+		"/home/jpb/SO/Guiões/2/6_2.c",
+		"/home/jpb/Downloads/Teste1 [14-15] - Completo.c",
+		"/home/jpb/PI/50questoes.h",
+		"/home/jpb/LI3/Clientes.txt",
+		"/home/jpb/LI3/main.c",
+		"/home/jpb/Downloads/main (1).c",
+		"/home/jpb/LI3/main_diogo.c",
+		"/home/jpb/Downloads/main.c",
+		"/home/jpb/CP/Graph.hs",
+		"/home/jpb/SO/Guiões/1_4_3.c",
+		"/home/jpb/SO/Guiões/1/1.c",
+		"/home/jpb/SO/Guiões/1/2.c",
+		"/home/jpb/SO/Guiões/1/2_v2.c",
+		"/home/jpb/SO/Guiões/1/3.c",
+		"/home/jpb/SO/Guiões/1/5.c",
+		"/home/jpb/SO/Guiões/1/4_1.c",
+		"/home/jpb/SO/Guiões/1/4_3.c",
+		"/home/jpb/SO/Guiões/1_5.c",
+		"/home/jpb/LI2/projetofinal.c",
+		"/home/jpb/LI2/gitgrupo/projeto.c",
+		"/home/jpb/SO/Guiões/1_3.c",
+		"/home/jpb/SO/Guiões/1_2_v3.c",
+		"/home/jpb/SO/Guiões/1_2_v2.c",
+		"/home/jpb/SO/Guiões/1_2.c",
+		"/home/jpb/SO/Guiões/1_1.c",
+		"/home/jpb/PI1516/Ficha1.c",
+		"/home/jpb/SO/Guiões/a.txt",
+		"/home/jpb/SO/Guiões/b.txt",
+		"/home/jpb/SO/Guiões/1_4.c",
+		"/home/jpb/SO/Guiões/1_2_v2",
+		"/home/jpb/SO/Guiões/myCat.c",
+		"/home/jpb/PI1516/Ficha1_pt2.c",
+		"/home/jpb/PI1516/Ficha1_pt1.txt",
+		"/home/jpb/Desktop/guiao1.c",
+		"/home/jpb/POO/olamundo.java",
+		"/home/jpb/Desktop/tarefaC_vHaddock.hs",
+		"/home/jpb/Desktop/tarefaA_v6.hs",
+		"/home/jpb/Desktop/tarefaB_v4.hs",
+		"/home/jpb/Desktop/Questoes1Parte.hs",
+		"/home/jpb/AnaPaula/Exercicios/RecFuncs.hs",
+		"/home/jpb/AnaPaula/Exercicios/ex1.hs",
+		"/home/jpb/Desktop/fichaPF.hs",
+		"/home/jpb/AnaPaula/Programa/nome.txt",
+		"/home/jpb/AnaPaula/Programa/ola.hs"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"root",
+			"avl_tree_t",
+			"avl_node_t",
+			"NodoP",
+			"Produto",
+			">\n",
+			"}\n",
+			"CtProdutos",
+			"ctprodutos",
+			"nodeprod",
+			"nodeProd",
+			"Produtos",
+			"produtos",
+			";\n",
+			"maisfreq",
+			"i != j",
+			"f",
+			"c",
+			"linhaPOK",
+			"linha",
+			"1",
+			"s[",
+			"!=",
+			"s[",
+			"&&",
+			"i",
+			"strcat",
+			"truncW",
+			"insere",
+			"PSIZE",
+			"CSIZE",
+			"fp",
+			"CSIZE0",
+			"20000",
+			"buf",
+			"temp",
+			"BUF",
+			" )",
+			"a",
+			"read"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Produtos",
+			"Produto",
+			"NodoP",
+			"Produtos",
+			"produtos",
+			"produto",
+			"Produto",
+			"CtProdutos",
+			"ctprodutos",
+			"menosFreq",
+			"contador",
+			"linhaOK",
+			"linhaP",
+			"linhaC",
+			"t[",
+			"==",
+			"t[",
+			"||",
+			"200000",
+			"20000",
+			"f",
+			"PSIZE",
+			"CSIZE",
+			"linhaOK",
+			"b"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Apartamento.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
