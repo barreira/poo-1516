@@ -10,4 +10,4 @@ Grupo 17:
 * João Pires Barreira (@jpiresbarreira)
 * Rafael Braga (@rafaelbraga25)
 
-Obs.: Não foi utilizado, originalmente, git para este trabalho.
+**Obs.:** Não foi utilizado, originalmente, git para este trabalho.
