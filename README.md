@@ -9,3 +9,5 @@ Grupo 17:
 * Ana Paula Carvalho (@aplealcarvalho)
 * João Pires Barreira (@jpiresbarreira)
 * Rafael Braga (@rafaelbraga25)
+
+Obs.: Não foi utilizado, originalmente, git para este trabalho.
