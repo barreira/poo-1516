@@ -1,3 +1,5 @@
 *.class
 *.java
 *.ctxt
+*.dat
+*.bluej
