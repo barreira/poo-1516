@@ -1,3 +1,13 @@
+/**
+ * Classe referente à exceção que ocorre quando um utilizador tenta participar num leilão que já tenha
+ * terminado.
+ * 
+ * @author Ana Paula Carvalho
+ * @author João Pires Barreira
+ * @author Rafael Braga
+ * @version 21.05.2016
+ */
+
 package ImoobiliariaExceptions;
 
 
@@ -7,29 +17,17 @@ package ImoobiliariaExceptions;
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class LeilaoTerminadoException
+
+public class LeilaoTerminadoException extends Exception
 {
-    // instance variables - replace the example below with your own
-    private int x;
-
-    /**
-     * Constructor for objects of class LeilaoTerminadoException
-     */
-    public LeilaoTerminadoException()
-    {
-        // initialise instance variables
-        x = 0;
-    }
-
-    /**
-     * An example of a method - replace this comment with your own
-     * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
-     */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
-    }
+   // Construtores
+   
+   public LeilaoTerminadoException() {
+       super();
+   }
+   
+   
+   public LeilaoTerminadoException(String msg) {
+       super(msg);
+   }
 }

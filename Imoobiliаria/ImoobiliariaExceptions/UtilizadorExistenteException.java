@@ -1,35 +1,25 @@
+/**
+ * Classe referente à exceção que ocorre quando se tenta registar um utilizador já exista.
+ * 
+ * @author Ana Paula Carvalho
+ * @author João Pires Barreira
+ * @author Rafael Braga
+ * @version 21.05.2016
+ */
+
 package ImoobiliariaExceptions;
 
 
-/**
- * Write a description of class UtilizadorExistenteException here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
-public class UtilizadorExistenteException
+public class UtilizadorExistenteException extends Exception
 {
-    // instance variables - replace the example below with your own
-    private int x;
-
-    /**
-     * Constructor for objects of class UtilizadorExistenteException
-     */
-    public UtilizadorExistenteException()
-    {
-        // initialise instance variables
-        x = 0;
-    }
-
-    /**
-     * An example of a method - replace this comment with your own
-     * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
-     */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
-    }
+   // Construtores
+   
+   public UtilizadorExistenteException() {
+       super();
+   }
+   
+   
+   public UtilizadorExistenteException(String msg) {
+       super(msg);
+   }
 }
